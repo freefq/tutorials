@@ -13,7 +13,7 @@
 
 ![2主界面](https://github.com/freefq/tutorials/blob/master/img/2.png)
 
-双击后可能没反应，别着急，在右下角状态栏找到v2ray图标，就是这个蓝底V字图标，再单击一次，软件界面就出来了。
+双击后可能没反应，别着急，在右下角状态栏找到v2ray图标，就是这个蓝底V字图标，左键单击图标，软件界面就出来了。
 
 ![3任务栏](https://github.com/freefq/tutorials/blob/master/img/3.png)
 
